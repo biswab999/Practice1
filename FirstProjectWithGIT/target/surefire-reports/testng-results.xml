@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37755" started-at="2020-10-06T14:59:51 IST" finished-at="2020-10-06T15:00:29 IST">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="37755" started-at="2020-10-06T14:59:51 IST" finished-at="2020-10-06T15:00:29 IST">
+      <class name="com.qspider.FirstProjectWithGIT.scripts.TC002">
+        <test-method status="PASS" signature="openApp(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qspider.FirstProjectWithGIT.scripts.TC002@5ce81285]" name="openApp" is-config="true" duration-ms="15017" started-at="2020-10-06T14:59:51 IST" finished-at="2020-10-06T15:00:06 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://automationpractice.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="loginToApp(java.lang.String, java.lang.String)[pri:0, instance:com.qspider.FirstProjectWithGIT.scripts.TC002@5ce81285]" name="loginToApp" is-config="true" duration-ms="6618" started-at="2020-10-06T15:00:06 IST" finished-at="2020-10-06T15:00:13 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nameishemanth@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Testing@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method status="PASS" signature="testItemAddedToKart()[pri:0, instance:com.qspider.FirstProjectWithGIT.scripts.TC002@5ce81285]" name="testItemAddedToKart" duration-ms="11366" started-at="2020-10-06T15:00:13 IST" description="Verify Whether the Added Product From Quick View is displayed in ODP" finished-at="2020-10-06T15:00:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testItemAddedToKart -->
+        <test-method status="PASS" signature="logout(org.testng.ITestResult)[pri:0, instance:com.qspider.FirstProjectWithGIT.scripts.TC002@5ce81285]" name="logout" is-config="true" duration-ms="3772" started-at="2020-10-06T15:00:24 IST" finished-at="2020-10-06T15:00:28 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testItemAddedToKart status=SUCCESS method=TC002.testItemAddedToKart()[pri:0, instance:com.qspider.FirstProjectWithGIT.scripts.TC002@5ce81285] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:com.qspider.FirstProjectWithGIT.scripts.TC002@5ce81285]" name="closeApp" is-config="true" duration-ms="926" started-at="2020-10-06T15:00:28 IST" finished-at="2020-10-06T15:00:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- com.qspider.FirstProjectWithGIT.scripts.TC002 -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,12 @@
+com\qspider\FirstProjectWithGIT\generic\TakeScreenShotLib.class
+com\qspider\FirstProjectWithGIT\generic\AutoConstants.class
+com\qspider\FirstProjectWithGIT\pages\OrderDetailPage.class
+com\qspider\FirstProjectWithGIT\generic\ExcelLibrary.class
+com\qspider\FirstProjectWithGIT\generic\Utilities.class
+com\qspider\FirstProjectWithGIT\generic\WebActionUtil.class
+com\qspider\FirstProjectWithGIT\generic\PropertyFileLibrary.class
+com\qspider\FirstProjectWithGIT\pages\HomePage.class
+com\qspider\FirstProjectWithGIT\pages\CategoryPage.class
+com\qspider\FirstProjectWithGIT\pages\BasePage.class
+com\qspider\FirstProjectWithGIT\pages\LoginPage.class
+com\qspider\FirstProjectWithGIT\pages\ProductDetailPage.class
